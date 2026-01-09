@@ -809,7 +809,7 @@ function App() {
                             </p>
 
                             <button className="inline-flex items-center space-x-2 bg-gray-100 text-gray-700 px-6 py-2.5 rounded hover:bg-gray-200 transition-all duration-200 font-normal text-sm uppercase tracking-widest">
-                              <span>READ MORE</span>
+                              <span>READ MORE...</span>
                             </button>
                           </div>
 
